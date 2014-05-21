@@ -2,7 +2,7 @@ package com.example.testapp;
 
 import com.example.testapp.adapter.TabsPagerAdapter;
 import com.example.testapp2.R;
-
+import com.example.testapp.adapter.TabsPagerAdapter;
 import android.app.ActionBar;
 import android.app.ActionBar.Tab;
 import android.app.FragmentTransaction;
