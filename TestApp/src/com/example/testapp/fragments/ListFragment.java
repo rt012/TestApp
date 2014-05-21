@@ -14,7 +14,7 @@ import com.example.testapp.json.GetElements;
 import com.example.testapp.json.GetHeader;
 import com.example.testapp.json.ServiceHandler;
 import com.example.testapp2.R;
-import com.example.testapp2.adapter.ExpandableListAdapter;
+import com.example.testapp.adapter.ExpandableListAdapter;
 
 import android.app.ProgressDialog;
 import android.graphics.Bitmap;
