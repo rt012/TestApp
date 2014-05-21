@@ -1,4 +1,4 @@
-package com.example.testapp2.adapter;
+package com.example.testapp.adapter;
 
 import java.util.ArrayList;
 

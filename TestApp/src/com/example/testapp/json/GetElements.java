@@ -16,6 +16,7 @@ import org.json.JSONObject;
 
 
 
+
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.AsyncTask;
@@ -26,11 +27,11 @@ import android.view.View;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 
+import com.example.testapp.adapter.ExpandableListAdapter;
 import com.example.testapp.bo.HeadElement;
 import com.example.testapp.bo.SubElement;
 import com.example.testapp.fragments.DetailFragment;
 import com.example.testapp.fragments.ListFragment;
-import com.example.testapp2.adapter.ExpandableListAdapter;
 
 /**
  * Async task class to get json by making HTTP call
